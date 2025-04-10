@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Rushikesh Jadhavs</h1>
 <h3 align="center">BTech Student • Developer • Content Creator • Tech & AI Enthusiast</h3>
 
 ---
