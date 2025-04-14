@@ -6,7 +6,7 @@
 ### 💡 About Me  
 - 👨‍💻 Passionate about tech, AI, and full-stack development  
 - 🔥 Creating savage content that entertains & educates  
-- 🌱 Currently learning: **HTML, CSS, JavaScript, React + Vite, Supabase, SQL**  
+- 🌱 Currently learning: **HTML, CSS, JavaScript, React + Vite, Supabase ,Next js, SQL**  
 - 🎯 Goal: Build cool projects, break the internet with content, and master full-stack dev  
 - 🎮 Fun fact: I code, create, and dominate — one repo at a time.
 
