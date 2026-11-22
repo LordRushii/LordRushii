@@ -50,12 +50,12 @@ BTech in <Branch> at **<College>** (class of 20XX). -->
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css&perline=8" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,bun&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,html,css&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,vite,tailwind,nodejs,bun&perline=8" /><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,git,vercel,vscode&perline=8" />
 </p>
 
-<sub>Also: Convex · shadcn/ui · Zod · Groq · Gemini · Playwright · Vitest · Clarity (Web3)</sub>
+<sub>Also: React Native · Convex · shadcn/ui · Zod · Groq · Gemini · Playwright · Vitest · Clarity (Web3)</sub>
 
 ## Activity
 
