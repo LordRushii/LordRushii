@@ -69,9 +69,9 @@ BTech in <Branch> at **<College>** (class of 20XX). -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordRushii/LordRushii/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordRushii/LordRushii/output/pacman-contribution-graph.svg">
-    <img alt="contribution graph" src="https://raw.githubusercontent.com/LordRushii/LordRushii/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordRushii/LordRushii/output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordRushii/LordRushii/output/pacman-contribution-graph.svg?v=2">
+    <img alt="contribution graph" src="https://raw.githubusercontent.com/LordRushii/LordRushii/output/pacman-contribution-graph.svg?v=2">
   </picture>
 </div>
 
